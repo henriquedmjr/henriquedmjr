@@ -18,6 +18,6 @@ Focado em construir uma base sólida em **Desenvolvimento Backend e Cultura DevO
 ### 📂 Repositórios Principais
 * [**FATEC-2sem**](https://github.com/henriquedmjr/fatec-2sem) - Documentação e labs da graduação.
 * [**CS50x-2026**](https://github.com/henriquedmjr/CS50x-2026) - Fundamentos de computação em C.
-* [**Java Solutions**](https://github.com/henriquedmjr/mooc-java-solutions) - Exercícios práticos de Java.
+* [**MOOC-Java**](https://github.com/henriquedmjr/mooc-java) - Exercícios práticos de Java.
 
 ---
